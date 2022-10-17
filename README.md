@@ -1,4 +1,4 @@
-# Avertra-Assignment
+# Avertra Assignment Solution
 This repo contains my solution to Avertra's Forecasting Assignment.
 The solution is based on three notebooks:
 - The first [notebook](https://github.com/Azzam-Radman/Avertra-Assignment/blob/main/Notebooks/01%20-%20Exploration%20and%20Preprocessing.ipynb) contains some EDA and processing.
